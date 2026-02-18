@@ -1,6 +1,5 @@
 {
   "name": "nic",
-  "main": "index.html",
   "compatibility_date": "2026-02-18",
   "assets": {
     "directory": "."
